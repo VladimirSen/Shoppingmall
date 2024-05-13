@@ -28,9 +28,9 @@
 | :-------------: |:-------------:|:-------------:| 
 | <img src="https://github.com/VladimirSen/Shoppingmall/blob/main/Screenshots/Search.png" width="250"> | <img src="https://github.com/VladimirSen/Shoppingmall/blob/main/Screenshots/NewsDetails.png" width="250"> | <img src="https://github.com/VladimirSen/Shoppingmall/blob/main/Screenshots/Bonus.png" width="250"> |
 
-| Описание заведения |
-| :-------------: |
-| <img src="https://github.com/VladimirSen/Shoppingmall/blob/main/Screenshots/Details.png" width="250"> |
+| Описание заведения | Поделиться промокодом | Экран настроек |
+| :-------------: |:-------------:|:-------------:| 
+| <img src="https://github.com/VladimirSen/Shoppingmall/blob/main/Screenshots/Details.png" width="250"> | <img src="https://github.com/VladimirSen/Shoppingmall/blob/main/Screenshots/Share.png" width="250"> | <img src="https://github.com/VladimirSen/Shoppingmall/blob/main/Screenshots/Settings.png" width="250"> |
 
 ## Требования
 * iOS 15 и выше
